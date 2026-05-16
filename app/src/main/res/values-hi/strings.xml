@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">हस्त शिल्प (Hasta Shilpa)</string>
+    <string name="welcome_artisan">नमस्ते, शिल्पकार!</string>
+    <string name="create_beautiful">चलिए आज कुछ सुंदर बनाते हैं।</string>
+    <string name="search_hint">डिज़ाइन के विचार खोजें...</string>
+    <string name="quick_actions">त्वरित कार्रवाई</string>
+    <string name="trending_designs">ट्रेंडिंग डिज़ाइन</string>
+    <string name="upload_product">उत्पाद अपलोड करें</string>
+    <string name="price_estimator">मूल्य सुझावक</string>
+    <string name="generate_design">डिज़ाइन बनाएं</string>
+    <string name="download_blueprint">PDF गाइड डाउनलोड करें</string>
+</resources>

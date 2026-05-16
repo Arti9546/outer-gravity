@@ -1,0 +1,17 @@
+# Gradle local caches and wrappers sitting in root
+caches/
+daemon/
+wrapper/
+jdks/
+native/
+.tmp/
+kotlin-profile/
+
+# Android/IDE specific
+.idea/
+local.properties
+.gradle/
+build/
+app/build/
+android/.gradle/
+android/build/

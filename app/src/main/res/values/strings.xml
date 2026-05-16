@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hasta Shilpa</string>
+    <string name="welcome_artisan">Welcome back, Artisan!</string>
+    <string name="create_beautiful">Let\'s create something beautiful today.</string>
+    <string name="search_hint">Search design ideas...</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="trending_designs">Trending Designs</string>
+    <string name="upload_product">Upload Product</string>
+    <string name="price_estimator">Price Suggester</string>
+    <string name="generate_design">Generate Design</string>
+    <string name="download_blueprint">Download PDF Guide</string>
+</resources>
