@@ -31,7 +31,3 @@ Hasta-Shilpa (Handicraft-Craft) is a socially conscious Android application buil
 - Android Studio Ladybug or newer.
 - A Firebase project with Auth, Firestore, and Storage enabled.
 
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/Hasta-Shilpa.git](https://github.com/yourusername/Hasta-Shilpa.git)
