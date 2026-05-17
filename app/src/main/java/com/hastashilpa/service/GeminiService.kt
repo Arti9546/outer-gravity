@@ -8,7 +8,7 @@ import kotlinx.coroutines.withContext
 
 class GeminiService {
     // Note: Replace with your actual Gemini API Key from Google AI Studio
-    private val apiKey = "AIzaSyC9KLkc7LGNRcPcnvrcugl8BCDH8jas4is"
+    private val apiKey = "**********************************"
 
     private val generativeModel = GenerativeModel(
         modelName = "gemini-1.5-flash",
